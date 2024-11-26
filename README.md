@@ -5,6 +5,7 @@ code ported from here https://github.com/MentorEmbedded/gears-demo-for-vp
 
 To run:
 make
+
 ./mk
 
 
